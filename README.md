@@ -7,7 +7,7 @@ Création d'une application permettant d'afficher une api contenant toutes les v
 
 ### Features réalisées :
 
--Deux écrans : Un écran avec les 3 fragments accessibles via une navigation Drawer et un écran détaillé des voitres présentent dans l'api.
+-Deux écrans : Un écran avec les 3 fragments accessibles via une navigation Drawer et un écran détaillé des voitures présentent dans l'api.
 
 -Trois Fragments : Un fragment d'accueil, un fragment contenant la recyclerView des voitures et un fragment contenant une video Youtube sur les voitures de luxe. 
 
